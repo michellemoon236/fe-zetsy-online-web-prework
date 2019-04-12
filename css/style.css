@@ -2,12 +2,12 @@
 
 /* link the web font used for the level 1 heading here */
 @font-face {
-    font-family: "Baskerville";
-src: url("fonts/Baskerville.eot");
-src: 
-url("fonts/Baskerville.woff") format("woff"),
-url("fonts/Baskerville.otf") format("opentype"),
-url("fonts/Baskerville.svg#filename") format("svg");
+  font-family: "Baskerville";
+  src: url("fonts/Baskerville.eot");
+  src: 
+    url("fonts/Baskerville.woff") format("woff"),
+    url("fonts/Baskerville.otf") format("opentype"),
+    url("fonts/Baskerville.svg#filename") format("svg");
 }
 /*////////// Global Styles //////////*/
 

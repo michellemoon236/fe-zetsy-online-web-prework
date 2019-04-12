@@ -21,8 +21,9 @@ body {
 
 @font-face {
     font-family: "Baskerville"
-    src:
+    src: url("fonts/Baskerville.ttc")
 }
+
 h1 {
   color: #6F7F7A;
   font-size: 4em;

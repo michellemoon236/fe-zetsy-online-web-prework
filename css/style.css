@@ -43,6 +43,6 @@ img {
   border: 5px solid #98ADA6;
 }
 
-#press a:hover {
+img:hover {
   border: 4px solid #262831;
 }

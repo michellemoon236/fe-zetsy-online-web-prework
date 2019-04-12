@@ -20,6 +20,12 @@ body {
 /* Write all remaining styles here */
 
 
-h1, h2 {
+h1 {
   color: #6F7F7A;
+  font-size: 4em;
+}
+
+h2 {
+  color: #6F7F7A;
+  font-size: 2em;
 }

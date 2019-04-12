@@ -1,7 +1,10 @@
 /*////////////// Fonts //////////////*/
 
 /* link the web font used for the level 1 heading here */
-
+@font-face {
+    font-family: "Baskerville";
+    src: url("fonts/Baskerville.ttc");
+}
 /*////////// Global Styles //////////*/
 
 body {
@@ -18,11 +21,6 @@ body {
 }
 
 /* Write all remaining styles here */
-
-@font-face {
-    font-family: "Baskerville";
-    src: url("fonts/Baskerville.ttc");
-}
 
 h1 {
   color: #6F7F7A;

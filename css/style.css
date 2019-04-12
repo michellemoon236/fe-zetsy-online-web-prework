@@ -4,6 +4,11 @@
 @font-face {
     font-family: "Baskerville";
     src: url("fonts/Baskerville.ttc");
+src: url("css/fonts/Harabara.eot");
+src: 
+url("css/fonts/Harabara.woff") format("woff"),
+url("css/fonts/Harabara.otf") format("opentype"),
+url("css/fonts/Harabara.svg#filename") format("svg");
 }
 /*////////// Global Styles //////////*/
 
